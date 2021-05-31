@@ -7,7 +7,7 @@ var particles = [], plinkos = [], divisions = [];
 var divisionHeight=300, score = 0;
 var particle,q,w;
 var count = 5;
-var gameState = "Serve";
+var gameState = "Play";
 
 function preload(){
   
