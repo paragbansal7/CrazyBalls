@@ -12,6 +12,7 @@ var gameState = "Play";
 function preload(){
   
 }
+
 function setup() {
   createCanvas(800, 800);
 
