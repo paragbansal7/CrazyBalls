@@ -12,7 +12,6 @@ var gameState = "Serve";
 function preload(){
   
 }
-
 function setup() {
   createCanvas(800, 800);
 
